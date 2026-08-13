@@ -367,6 +367,25 @@
       "requires_ood": false
     },
     {
+      "AnomalyTrack-test-PixBinaryClass-area_PRC": 0.9315252127, 
+      "AnomalyTrack-test-PixBinaryClass-tpr95_fpr": 0.0790760623, 
+      "AnomalyTrack-test-PixBinaryClass-best_f1": 0.8568111684, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-sIoU_gt": 0.4564890317, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-prec_pred": 0.6874545933, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fn_25": 100, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fp_25": 45, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-f1_25": 0.6908315565, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fn_50": 121, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fp_50": 50, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-f1_50": 0.6225165563, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fn_75": 175, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-fp_75": 73, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-f1_75": 0.4123222749, 
+      "AnomalyTrack-test-SegEval-AnomalyTrack-f1_mean": 0.5903658523, 
+      "method": "OWLang-wo-GraphCut", 
+      "requires_ood": false
+    },
+    {
       "AnomalyTrack-test-PixBinaryClass-area_PRC": 0.9374901251,
       "AnomalyTrack-test-PixBinaryClass-tpr95_fpr": 0.0408586478,
       "AnomalyTrack-test-PixBinaryClass-best_f1": 0.9095624839,
